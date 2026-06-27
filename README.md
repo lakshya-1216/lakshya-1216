@@ -1,18 +1,131 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>- 🚀 WorkShip – An Airbnb-like platform for booking workspaces<br>- 🌍 Improving backend architecture using Node.js, Express & MongoDB<br>- ⚡ Building scalable full-stack projects<br><br>👯 I'm looking to collaborate on<br>- Open Source Projects<br>- Full Stack Web Applications<br>- Backend Engineering Projects<br>- Developer Communities & Hackathons<br><br>🤝 I'm looking for help with<br>- Distributed Systems<br>- Scalable Backend Architecture<br>- Advanced System Design<br>- Cloud Deployment (AWS, Docker, Kubernetes)<br><br>🌱 I'm currently learning<br>- System Design<br>- Computer Networks<br>- Operating Systems<br>- Database Internals<br>- Docker & Kubernetes<br>- Redis & Caching<br>- Advanced Backend Development<br><br>💬 Ask me about<br>- Java<br>- Data Structures & Algorithms<br>- Node.js & Express<br>- MongoDB<br>- REST APIs<br>- Backend Development<br>- Placement Preparation<br><br>⚡ Fun fact<br>- I genuinely enjoy debugging more than writing code 😄<br>- I love optimizing solutions until they pass every edge case.<br>- I can spend hours solving DSA problems without realizing how much time has passed.
+<div align="center">
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Lakshya Khandelwal&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;MERN+Stack+Developer+%E2%9A%A1;System+Design+Explorer+%F0%9F%8C%90;+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br>
+
+<!-- Social Links with Glowing Effect -->
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshya._.1216) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-khandelwal-ab4a0228b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lakshya Khandelwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshyakha2810@gmail.com) 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lakshya-1216&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lakshya-1216&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lakshya-1216&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=lakshya-1216&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+```javascript
+const lakshya = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentFocus: "Getting a JOB🔭",
+    learning: ["MERN Stack", "SpringBoot","Generative AI"],
+    interests: ["Problem Solving", "Web Development", "AI/ML"],
+    motto: "I don't chase bugs—they haunt me until I fix them. ^_^",
+    
+    lifeLoop: function() {
+        while(alive) {
+            eat();
+            code();
+            solve();
+            sleep();
+            repeat();
+        }
+    }
+};
+```
+
+<br clear="right"/>
+
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Tech Stack with Icons -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+  Tech Arsenal
+</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🎨 Frontend Magic
+<div align="center">  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+#### ⚙️ Backend Power
+<div align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+#### 🗄️ Database & Cloud
+<div align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+#### 💻 Languages & Tools
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshya-1216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=lakshya-1216&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-1216&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-1216&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
+  </picture>
+</div>
