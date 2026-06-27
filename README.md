@@ -28,13 +28,14 @@ const lakshya = {
     currentFocus: "Getting a JOB🔭",
     learning: ["MERN Stack", "SpringBoot","Generative AI"],
     interests: ["Problem Solving", "Web Development", "AI/ML"],
-    motto: "Bugs in my head never make me sleep ^_^",
+    motto: "My brain doesn't know how to let go of a problem until it finds a solution. ^_^",
     
     lifeLoop: function() {
         while(alive) {
             eat();
             code();
             solve();
+            sleep();
             repeat();
         }
     }
